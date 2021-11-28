@@ -1,3 +1,3 @@
-- <h2>👦 Hi there, I’m mohammad👋</h2>
+- <h3>👦 Hi there, I’m mohammad👋</h3>
 - 🌱 I’m currently learning Front-end
 - ⚡ Fun fact: I love football :joy:
