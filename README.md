@@ -3,7 +3,11 @@
 
   
   
-  Connect with me:
+  ## contact me:
   
-  [<img align="left" alt="mohammadyosefvand | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/mohammad_yousefvand_/)
-[<img align="left" alt="mohammadyosefvand | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohammad-yousefvand-a9b045226/)
+<a href="https://www.instagram.com/mohammad_yousefvand_/">
+<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a> 
+<a href="https://www.linkedin.com/in/mohammad-yousefvand-a9b045226/">
+<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
