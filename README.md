@@ -18,3 +18,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadyousefvand&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
 </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyousefvand&layout=compact&theme=radical" />
+</p>
