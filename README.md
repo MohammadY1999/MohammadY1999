@@ -1,22 +1,38 @@
 - <h2> Hi there <img src="hello.gif" width="35px"</img></h2>
 - <h3> I am Mohammad 👦 </h3>
 
+  <p align="center"><samp><strong>contact me</strong></samp></p>
   
-  
-  ## contact me:
-  
-<a href="https://www.instagram.com/mohammad_yousefvand_/">
-<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a> 
-<a href="https://www.linkedin.com/in/mohammad-yousefvand-a9b045226/">
-<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <p align="center"> 
   <a href="https://mohammadyousefvand1999@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-yousefvand-a9b045226/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
+   <a href="https://www.instagram.com/mohammad_yousefvand_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+  </p>
+  <hr />
+  
+  <p align="center"><samp><strong>Programming Language</strong></samp></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
+</p>
+  
+  <hr />
+<p align="center"><samp><strong>Tool And Technology</strong></samp></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
+  <img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
+  <img src="https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab" alt="Gitlab" />
+  <img src="https://img.shields.io/badge/-Atom-darkgreen?style=for-the-badge&logo=atom" alt="Atom" />
+</p>
+<hr />
 
+<p align="center"><samp><strong>Operating System</strong></samp></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
+  <img src="https://img.shields.io/badge/-Debian Based linuxs-darkred?style=for-the-badge&logo=debian" alt="Debian" />
 
-
-# 💻
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+</p>
 
 <hr />
 
