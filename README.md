@@ -19,6 +19,7 @@
   <hr />
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/-Vim-teal?style=for-the-badge&logo=vim" alt="Atom" />
   <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
   <img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
