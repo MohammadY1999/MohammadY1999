@@ -8,7 +8,7 @@
   <p align="center"> 
   <a href="https://mohammadyousefvand1999@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"          alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/mohammad-yousefvand-a9b045226/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"    alt="Linkedin" /></a>
-   <a href="https://www.instagram.com/mohammad_yousefvand_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&       logoColor=white" alt="instagram" /></a>  
+   <a href="https://www.instagram.com/mohammad_yousefvand_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>  
   </p>
   
   <hr />
