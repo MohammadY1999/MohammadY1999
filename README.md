@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/-Vim-teal?style=for-the-badge&logo=vim" alt="Vim" />
   <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
   <img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="Git" />
+<img src="https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown" alt="Markdown" />
   <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
   <img src="https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab" alt="Gitlab" />
   <img src="https://img.shields.io/badge/-Atom-darkgreen?style=for-the-badge&logo=atom" alt="Atom" />
