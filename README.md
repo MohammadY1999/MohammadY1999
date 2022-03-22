@@ -12,7 +12,7 @@
    <a href="https://www.linkedin.com/in/mohammad-yousefvand-a9b045226/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"    alt="Linkedin" /></a>
    <a href="https://www.instagram.com/mohammad_yousefvand_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>  
    <a href="https://t.me/fcb_6666"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"   /></a>
-  <a href="https://wa.me/989394094563?text=Hello%20Aly!%20I%27ve%20reached%20you%20through%20your%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
+  <a href="https://wa.me/989394094563"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
   </p>
   
   <hr />
