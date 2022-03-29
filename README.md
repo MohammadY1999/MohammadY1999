@@ -46,7 +46,6 @@
      <img src="https://img.shields.io/badge/-Atom-darkgreen?style=for-the-badge&logo=atom" alt="Atom" />
      <img src="https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown" alt="Markdown" />
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-     <img src="https://img.shields.io/badge/-Photohop-darkblue?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="phoro" />
   </p>
 
   <hr />
