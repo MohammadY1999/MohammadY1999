@@ -26,11 +26,12 @@
   
   <p align="center"><samp><strong>Frameworks , Platforms , Libraries and Other</strong></samp></p>
   <p align="center">
+  <img src="https://img.shields.io/badge/-React.js-darkblue?style=for-the-badge&logo=react" alt="React.js" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass" />
- <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstarp" />
-   <img src="https://img.shields.io/badge/-Tailwind-darkblue?style=for-the-badge&logo=Tailwind-css" alt="tailwind" />
+  <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstarp" />
+  <img src="https://img.shields.io/badge/-Tailwind-darkblue?style=for-the-badge&logo=Tailwind-css" alt="tailwind" />
   </p>
 
   <hr />
