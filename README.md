@@ -15,16 +15,16 @@
   
   <hr />
   
-  <p align="center"><samp><strong>Programming Language</strong></samp></p>
+  <p align="center"><samp><strong>Programming Language & Frameworks</strong></samp></p>
   <p align="center">
-  <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
+  <img src="js.webp" alt="Javasciprt" />
+  <img src="react.webp" alt="Javasciprt" />
   </p>
   
   <hr />
   
-  <p align="center"><samp><strong>Frameworks , Platforms , Libraries and Other</strong></samp></p>
+  <p align="center"><samp><strong>Platforms , Libraries and Other</strong></samp></p>
   <p align="center">
-  <img src="https://img.shields.io/badge/-React.js-darkblue?style=for-the-badge&logo=react" alt="React.js" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass" />
