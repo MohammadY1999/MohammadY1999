@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstarp" />
   <img src="https://img.shields.io/badge/-Tailwind-darkblue?style=for-the-badge&logo=Tailwind-css" alt="tailwind" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   </p>
 
   <hr />
