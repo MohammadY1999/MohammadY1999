@@ -1,4 +1,4 @@
-<h2 align="center"><samp>Hi there</samp></h2>
+<h2 align="center"><samp>Hi there 👋</samp></h2>
 <h1 align="center"><samp>I am Mohammad 👦</samp></h1>
 
 <p align="center"><samp><strong>contact me</strong></samp></p>
