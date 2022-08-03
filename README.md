@@ -1,5 +1,3 @@
-<h2 align="center"><samp>Hi there 👋</samp></h2>
-<h1 align="center"><samp>I am Mohammad 👦</samp></h1>
 
 <p align="center"><samp><strong>contact me</strong></samp></p>
 
@@ -22,8 +20,6 @@
   </p>
   
   <hr />
-  
-  <p align="center"><samp><strong>Platforms , Libraries and Other</strong></samp></p>
   <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css" />
@@ -31,29 +27,16 @@
   <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstarp" />
   <img src="https://img.shields.io/badge/-Tailwind-darkblue?style=for-the-badge&logo=Tailwind-css" alt="tailwind" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  </p>
-
-  <hr />
-  
-  <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
-  <p align="center">
-     <img src="https://img.shields.io/badge/-Npm-crimson?style=for-the-badge&logo=npm" alt="npm" />
-     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
-     <img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="Git" />
-     <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
-     <img src="https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab" alt="Gitlab" />
-  </p>
-
-  <hr />
-
-  <p align="center"><samp><strong>Operating System</strong></samp></p>
-  <p align="center">
   <img src="https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/-Debian Based linuxs-darkred?style=for-the-badge&logo=debian" alt="Debian" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Debian" />
+  <img src="https://img.shields.io/badge/-Npm-crimson?style=for-the-badge&logo=npm" alt="npm" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
+  <img src="https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab" alt="Gitlab" />
   </p>
-
   <hr />
 
   <p align="center">
