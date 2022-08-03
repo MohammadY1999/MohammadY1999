@@ -42,9 +42,6 @@
      <img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="Git" />
      <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
      <img src="https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab" alt="Gitlab" />
-     <img src="https://img.shields.io/badge/-Atom-darkgreen?style=for-the-badge&logo=atom" alt="Atom" />
-     <img src="https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown" alt="Markdown" />
-     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   </p>
 
   <hr />
