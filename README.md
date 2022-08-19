@@ -1,20 +1,14 @@
 
 <p align="center"><samp><strong>contact me</strong></samp></p>
 
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mohammadyousefvand1999@gmail.com/)
+[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-yousefvand-a9b045226/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohammad_yousefvand_/)
+[![telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fcb_6666)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989394094563)
 
-  
-  <p align="center"> 
-   <a href="https://mohammadyousefvand1999@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"          alt="Gmail" /></a>
-   <a href="https://www.linkedin.com/in/mohammad-yousefvand-a9b045226/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"    alt="Linkedin" /></a>
-   <a href="https://www.instagram.com/mohammad_yousefvand_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>  
-   <a href="https://t.me/fcb_6666"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"   /></a>
-  <a href="https://wa.me/989394094563"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
-  </p>
-  
-  <hr />
-  
-  <p align="center"><samp><strong>Programming Language & Frameworks</strong></samp></p>
-  <p align="center">
+  <p align=""><samp><strong>Programming Language & Frameworks</strong></samp></p>
+  <p align="">
   <img src="js.webp" alt="Javasciprt" />
   <img src="react.webp" alt="Javasciprt" />
   </p>
@@ -41,12 +35,11 @@
 ![gitlab](https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadyousefvand&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github   Status" />
-  </p>
-  <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadyousefvand&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="" />
-</p>
+---
+
+![](https://github-readme-stats.vercel.app/api?username=mohammadyousefvand&show_icons=true&hide_border=true&count_private=true&theme=radical)
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=mohammadyousefvand&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=mohammadyousefvand&label=PROFILE+VIEWS)
 
