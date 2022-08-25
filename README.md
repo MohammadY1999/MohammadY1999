@@ -1,5 +1,5 @@
 
-<p align="center"><samp><strong>contact me</strong></samp></p>
+<p><samp><strong>contact me</strong></samp></p>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mohammadyousefvand1999@gmail.com/)
 [![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-yousefvand-a9b045226/)
@@ -7,8 +7,8 @@
 [![telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fcb_6666)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989394094563)
 
-  <p align=""><samp><strong>Programming Language & Frameworks</strong></samp></p>
-  <p align="">
+  <p><samp><strong>Programming Language & Frameworks</strong></samp></p>
+  <p>
   <img src="js.webp" alt="Javasciprt" />
   <img src="react.webp" alt="Javasciprt" />
   </p>
