@@ -38,9 +38,8 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=mohammadyousefvand&show_icons=true&hide_border=true&count_private=true&theme=radical)
- 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=mohammadyousefvand&show_icons=true&hide_border=true&count_private=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadyousefvand&show_icons=true&theme=tokyonight)](https://github.com/MehdiKhoshnevisz/)&ensp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyousefvand&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=mohammadyousefvand&label=PROFILE+VIEWS)
 
