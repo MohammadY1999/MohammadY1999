@@ -30,14 +30,14 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadY1999&show_icons=true&theme=tokyonight)](https://github.com/MehdiKhoshnevisz/)&ensp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadY1999&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamad-1999&show_icons=true&theme=tokyonight)](https://github.com/MehdiKhoshnevisz/)&ensp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamad-1999&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
 <div align="center">
   <samp>View Count</samp>
   <br />
-  <img src="https://profile-counter.glitch.me/{MohammadY1999}/count.svg" alt="visitor count" />
+  <img src="https://profile-counter.glitch.me/{mamad-1999}/count.svg" alt="visitor count" />
 </div>
 
