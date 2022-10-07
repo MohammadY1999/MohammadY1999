@@ -3,14 +3,6 @@
 <h3><samp> Hi there <img src="https://raw.githubusercontent.com/mohammadyousefvand/mohammadyousefvand/master/wave.gif" width="30px" height="30px">  I’m Mohammad </samp></h3>
 
 ----
-<p><samp><strong>contact me</strong></samp></p>
-
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mohammadyousefvand1999@gmail.com/)
-[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-yousefvand-a9b045226/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohammad_yousefvand_/)
-[![telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fcb_6666)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989394094563)
-
   <p><samp><strong>Programming Language & Frameworks & Tools</strong></samp></p>
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
