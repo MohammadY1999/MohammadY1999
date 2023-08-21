@@ -1,5 +1,5 @@
 
-<h3>Front-End Dev | Javascript Enthusiast </h3>
+<h3>Web developer | Javascript Enthusiast </h3>
 <h3><samp> Hi there <img src="https://raw.githubusercontent.com/mohammadyousefvand/mohammadyousefvand/master/wave.gif" width="30px" height="30px">  I’m Mohammad </samp></h3>
 
 ----
