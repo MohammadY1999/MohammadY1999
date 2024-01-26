@@ -37,6 +37,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="netlify">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="48" title="bash">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="linux">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="docker">
       
       
   </a>
