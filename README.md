@@ -21,7 +21,8 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="postman">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="vscode">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" title="vim">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="gig">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="git">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="48" title="git">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="48" title="materialUi">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="tailwind">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="48" title="styled">
@@ -38,8 +39,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="48" title="bash">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="linux">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="docker">
-      
-      
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="48" title="redis">
   </a>
 </p>
 
