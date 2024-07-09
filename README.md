@@ -56,3 +56,10 @@
   <img src="https://profile-counter.glitch.me/{mamad-1999}/count.svg" alt="visitor count" />
 </div>
 
+<p align="center"> 
+ <i>You can reach out to me via</i> 
+&nbsp;<a href="mailto:contact.www.mmhmdmm83@gmail.com">
+     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="100"/>
+ </a>
+</p>
+
