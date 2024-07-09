@@ -1,6 +1,6 @@
 
 <h3>Web developer</h3>
-<h3><samp> Hi there <img src="https://raw.githubusercontent.com/mohammadyousefvand/mohammadyousefvand/master/wave.gif" width="30px" height="30px">  I’m Mohammad </samp></h3>
+<h3><samp><img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Hi there <img align ='center' src="https://raw.githubusercontent.com/mohammadyousefvand/mohammadyousefvand/master/wave.gif" width="30px" height="30px">  I’m Mohammad </samp></h3>
 
 ----
   <p><samp><strong>Programming Language & Frameworks & Tools</strong></samp></p>
