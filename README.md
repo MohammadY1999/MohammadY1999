@@ -17,8 +17,10 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="html">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="Nodejs">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" title="expressjs">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="48" title="prisma">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pug-Dark.svg" width="48" title="pug">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="mongodb">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="48" title="selenium">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="postman">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="vscode">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" title="vim">
@@ -39,6 +41,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="netlify">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="48" title="bash">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="linux">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mint-Dark.svg" width="48" title="Mint">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="docker">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="48" title="redis">
   </a>
