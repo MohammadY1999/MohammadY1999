@@ -21,6 +21,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pug-Dark.svg" width="48" title="pug">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="mongodb">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="48" title="selenium">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="48" title="flask">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="postman">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="vscode">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" title="vim">
