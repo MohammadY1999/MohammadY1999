@@ -91,7 +91,7 @@
 </div>
 <p align="center"> 
 &nbsp;<a href="mailto:www.mmhmdmm83@gmail.com">
-     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="200"/>
+     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="200" hight="100"/>
  </a>
 </p>
 
