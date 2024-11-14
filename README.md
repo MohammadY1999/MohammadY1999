@@ -83,9 +83,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamad-1999&show_icons=true&theme=tokyonight)](https://github.com/MehdiKhoshnevisz/)&ensp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamad-1999&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-----
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mamad1999.png)](https://tryhackme.com/p/mamad1999)
-
 
 <div align="center">
   <samp>View Count</samp>
