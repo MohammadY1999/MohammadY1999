@@ -80,9 +80,10 @@
 </p>
 
 ---
+<img src="https://github.com/mamad-1999/mamad-1999/blob/main/assets/tryhackme-badge-high-quality.png" alt="visitor count" />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamad-1999&show_icons=true&theme=tokyonight)](https://github.com/MehdiKhoshnevisz/)&ensp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamad-1999&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github.com/mamad-1999/mamad-1999/blob/main/assets/tryhackme-badge-high-quality.png" alt="visitor count" />
 
 <div align="center">
   <samp>View Count</samp>
