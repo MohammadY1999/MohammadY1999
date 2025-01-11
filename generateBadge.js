@@ -2,14 +2,16 @@ const puppeteer = require('puppeteer');
 
 (async () => {
     try {
-        const browser = await puppeteer.launch();
+        const browser = await puppeteer.launch({
+            args: ['--no-sandbox', '--disable-setuid-sandbox'], // Add these flags
+        });
         const page = await browser.newPage();
 
         // Set a high-resolution viewport
         await page.setViewport({
             width: 1920,
             height: 1080,
-            deviceScaleFactor: 2, // High pixel density
+            deviceScaleFactor: 2,
         });
 
         // Navigate to the TryHackMe dynamic badge page
@@ -39,4 +41,3 @@ const puppeteer = require('puppeteer');
         console.error('Error generating screenshot:', error);
     }
 })();
-

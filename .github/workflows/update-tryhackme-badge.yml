@@ -1,7 +1,6 @@
 name: Update TryHackMe Badge
 
 on:
-  # Allow manual triggering of the workflow
   workflow_dispatch:
 
 jobs:
@@ -17,14 +16,14 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: "18" # Use Node.js version 18
+          node-version: "18"
 
       # Step 3: Install Puppeteer dependencies
       - name: Install Puppeteer dependencies
         run: sudo apt-get install -y libnss3 libxss1 fonts-liberation libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libgbm1 libnspr4 libxcomposite1 libxdamage1 libxrandr2 libxtst6 xdg-utils
 
-      # Step 4: Install project dependencies
-      - name: Install Node.js dependencies
+      # Step 4: Install Node.js dependencies
+      - name: Install Puppeteer
         run: npm install puppeteer
 
       # Step 5: Run Puppeteer script
