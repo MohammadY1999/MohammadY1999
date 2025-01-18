@@ -18,9 +18,28 @@ const puppeteer = require('puppeteer');
         const url = 'https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3153096';
         await page.goto(url, { waitUntil: 'networkidle2' });
 
-        // Wait for the badge element
+        // Wait for the badge element to load completely
         const badgeSelector = '#thm-badge';
-        await page.waitForSelector(badgeSelector);
+        await page.waitForSelector(badgeSelector, { visible: true });
+
+        // Ensure all images within the badge element are fully loaded
+        await page.evaluate(async (selector) => {
+            const element = document.querySelector(selector);
+            if (element) {
+                const images = Array.from(element.querySelectorAll('img'));
+                await Promise.all(
+                    images.map((img) => {
+                        if (!img.complete) {
+                            return new Promise((resolve, reject) => {
+                                img.onload = resolve;
+                                img.onerror = reject;
+                            });
+                        }
+                        return Promise.resolve();
+                    })
+                );
+            }
+        }, badgeSelector);
 
         // Optionally scale the badge up for better visibility
         await page.addStyleTag({
